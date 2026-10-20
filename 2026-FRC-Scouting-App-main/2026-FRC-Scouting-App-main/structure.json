@@ -1,0 +1,28 @@
+[
+    {
+        "app": {
+            "type": "directory",
+            "children": { 
+                "api": {
+                    "type": "directory",
+                    "children": {
+                        "frc-events": {
+                            "type": "directory",
+                            "children": {
+                                "route.ts": {
+                                    "type": "file"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
+
+
+app:api:frc-events:route.ts
+
+
+
